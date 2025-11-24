@@ -11,9 +11,9 @@
 ---
 
 ### 🔧 What I do
-- Build mobile apps with **React Native + Expo**  
-- Ship SaaS: dashboards, auth, APIs, scalable backends  
 - Polished web UI with **React + TypeScript + Tailwind**
+- Build mobile apps with **React Native + Expo**  
+- Create real-time features using **Firebase** (Auth, Firestore, Storage)
 
 ---
 
